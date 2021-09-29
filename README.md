@@ -1,1 +1,1 @@
-# -dokuwiki-plugin-addnewticket
+# dokuwiki-plugin-addnewticket
