@@ -1,0 +1,8 @@
+# General Plugin Info
+base   addnewticket
+author Benjamin Santalucia, Sam Wilson, Michael Braun, Gerrit Uitslag, Albert Chern, Christoph Strasser
+email
+date   2021-09-29
+name   Add New Ticket
+desc   Adds a "new page form" to any wiki page with timestamp.
+url    https://github.com/grg8/dokuwiki-plugin-addnewticket
